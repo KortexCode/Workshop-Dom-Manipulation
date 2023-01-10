@@ -1,3 +1,5 @@
+# Workshop-Dom-Manipulation
+En este proyecto se aplican técnicas de manipulación del Dom con una tienda online
 # Snowpack Tailwind
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
